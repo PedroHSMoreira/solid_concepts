@@ -1,0 +1,1 @@
+# Implementação do conceito SOLID
